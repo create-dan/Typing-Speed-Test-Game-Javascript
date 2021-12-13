@@ -189,7 +189,7 @@ const wordCounter = (str) =>{
  function timer() {
  
   
-  var sec = 10;
+  var sec = 60;
    document.querySelector("text").innerHTML = sec;
 
   function updateSec() {
